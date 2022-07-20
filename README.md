@@ -1,4 +1,13 @@
 <h1 align="center">Hi, I'm Fearkin!</h1>
+
+<h2 align="center">About me</h2>
+
+<h3>Projects I want to contribute to</h3>
+
+<ul>
+  <li><a href="https://github.com/python-poetry/poetry">Poetry</a>, Python dependency management and packaging made easy.</li>
+  <li><a href="https://github.com/jarun/nnn">nnn</a>, The unorthodox terminal file manager.</li>
+</ul>
 <h3 align="center">My knowledge</h3>
 <h4 align="center">Web development</h4>
 <p>
