@@ -11,7 +11,7 @@
 
 - Ask me about **react, javascript, node.js**
 
-- How to reach me **fearjin1@gmail.com**
+- Want to reach me? **fearjin1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
