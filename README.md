@@ -22,7 +22,3 @@
 
 <h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/fearkin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fearkin" /></a></p><br><br>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fearkin&show_icons=true&locale=en&layout=compact&theme=onedark" alt="fearkin" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fearkin&show_icons=true&locale=en&theme=onedark" alt="fearkin" /></p>
