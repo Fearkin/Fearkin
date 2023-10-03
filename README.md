@@ -7,8 +7,6 @@
 
 - All of my projects are available at [https://github.com/Fearkin](https://github.com/Fearkin)
 
-- Want to reach me? **fearjin1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
