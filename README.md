@@ -1,4 +1,4 @@
-<h3>DevOps Engineer, OSINT investigator, generalist</h3>
+<h3>DevOps Engineer, generalist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fearkin&row=2&column=3&theme=onedark" alt="fearkin" /></a> </p>
 
