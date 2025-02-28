@@ -1,4 +1,4 @@
-<h3>DevOps Engineer, generalist</h3>
+<h3>DevOps Engineer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
